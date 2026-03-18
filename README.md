@@ -19,3 +19,4 @@ Today is 3rd day of commit on base ie 18.03.2026
 scroll down and click “commit changes”
 open the file again
 add a new line or edit the text
+click commit changes again
