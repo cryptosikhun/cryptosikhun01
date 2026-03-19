@@ -43,3 +43,4 @@ the new guild tasks are:
 ...End of day 3...
 
 This is day 4 of commit on base 19.03.2026
+holding $1 or 0.0005 eth
