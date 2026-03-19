@@ -46,3 +46,5 @@ This is day 4 of commit on base 19.03.2026
 holding $1 or 0.0005 eth
 holding $100 or 0.03 eth
 holding $1,000 or 0.3 eth
+
+ builders and founders
