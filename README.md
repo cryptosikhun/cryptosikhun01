@@ -48,3 +48,4 @@ holding $100 or 0.03 eth
 holding $1,000 or 0.3 eth
 
  builders and founders
+contract deployed (1)
