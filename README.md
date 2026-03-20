@@ -81,3 +81,4 @@ this post is just a reminder for anyone who qualifies to complete it.
 
 
 complete onchain verification task, base might use it for kyc or sybil filtering for a potential airdrop.
+so far, only ~50k users have completed the task on the base guild. here’s how to do it:
