@@ -89,3 +89,4 @@ once the verification is complete, return to the base guild to claim your role.
 ...end of day 5...
 
 This is day 6 of commit on base
+base will be migrating away from the op stack into its own infrastructure stack.
