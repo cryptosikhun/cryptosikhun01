@@ -103,3 +103,4 @@ $1000+ signals serious participation.
 (only deploy what you can afford.)
 
  build on the base ecosystem
+this goes beyond claiming a “dev” role on guild.
