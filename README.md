@@ -126,3 +126,7 @@ contract SimpleStorage {
  constructor(string memory _message) {
         message = _message;
     }
+ function setMessage(string memory _newMessage) public {
+        message = _newMessage;
+    }
+}
