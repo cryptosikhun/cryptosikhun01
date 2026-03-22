@@ -131,3 +131,4 @@ contract SimpleStorage {
     }
 }
 step 4: compile the contract
+click solidity compiler on the side menu > click compile SimpleStorage.sol
