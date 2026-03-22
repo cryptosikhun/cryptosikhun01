@@ -111,3 +111,4 @@ the more legitimate roles you earn through contribution and activity, the better
 ...this is end of day 6...
 
 This is day 7 of commit on base
+deploy a simple contract on base and claim the deployer role!
