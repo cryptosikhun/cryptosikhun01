@@ -139,3 +139,5 @@ in the constructor field, type "gm base", then click deploy and verify. it will 
 after successful deployment and verification, go to: http://guild.xyz/base and claim the deployer role.
 what you just did? you deployed a simple contract that stores the message "gm base" fully onchain on base.
 if you encounter any error, drop it in the comments and i’ll help you fix it.
+
+...this is end of day 7...
