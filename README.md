@@ -123,3 +123,6 @@ click create on the home page > new file, name it "SimpleStorage.sol", then past
 pragma solidity ^0.8.20;
 contract SimpleStorage {
  string public message;
+ constructor(string memory _message) {
+        message = _message;
+    }
