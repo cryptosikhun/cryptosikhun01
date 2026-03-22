@@ -112,3 +112,4 @@ the more legitimate roles you earn through contribution and activity, the better
 
 This is day 7 of commit on base
 deploy a simple contract on base and claim the deployer role!
+in this guide, i’ll walk you through how to deploy a simple contract on base and claim the deployer role from guild.
